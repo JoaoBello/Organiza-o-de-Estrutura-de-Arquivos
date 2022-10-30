@@ -1,1 +1,11 @@
 # Organiza-o-de-Estrutura-de-Arquivos
+Para compilar esse código é preciso seguir os seguintes passos:
+1 - Compilar o código da seguinte maneira: gcc -o Busca_Binaria Busca_Binaria.c
+2 - Executar o código colocando o argumento que você quer comparar, nesse caso deve ser o CEP, por exemplo: ./Busca_Binaria 88056545
+
+### Exemplo de CEPs:
+- 01001000
+- 09540901
+- 40450335
+- 40450357
+- 74920010
