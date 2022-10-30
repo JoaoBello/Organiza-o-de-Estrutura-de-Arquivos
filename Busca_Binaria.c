@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
 
 typedef struct _Endereco Endereco;
@@ -44,7 +43,7 @@ int main(int argc, char**argv)
         if(strncmp(argv[1],e.cep,8)==0)
 		{
             
-            printf("Rua existente/n");
+            printf("Rua existente!!\n\n");
 			printf("%.72s\n%.72s\n%.72s\n%.72s\n%.2s\n%.8s\n",e.logradouro,e.bairro,e.cidade,e.uf,e.sigla,e.cep);
             break;
 		}
@@ -62,7 +61,7 @@ int main(int argc, char**argv)
     }
         if (strncmp(argv[1],e.cep,8)!= 0)
         {
-            printf("O Cep não existe no sistema\n");
+            printf("O Cep não existe no sistema.\n");
         }
         printf("Total Lido: %d\n", c);
         fclose(f);
