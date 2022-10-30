@@ -1,3 +1,6 @@
+// Código para cortar o arquivo cep_ordenado.dat, já que o tamanho anteriormente era maior do que o possivel no GitHub.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
