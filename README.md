@@ -8,6 +8,6 @@ Para compilar esse código é preciso seguir os seguintes passos:
 ### Exemplo de CEPs:
 - 01001000
 - 09540901
-- 40450335
-- 40450357
-- 74920010
+- 02451045
+- 01330902
+- 01030902
