@@ -7,7 +7,7 @@ Para compilar esse código é preciso seguir os seguintes passos:
 
 ### Exemplo de CEPs:
 - 01001000
-- 09540901
+- 01001010
 - 02451045
 - 01330902
 - 01030902
